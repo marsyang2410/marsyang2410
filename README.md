@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mars@ntnu
 - 👀 I’m interested in computer and tech, not very brilliant in coding.
-- 🌱 I’m currently learning coding for the next year intern jobs.
+- 🌱 I’m currently learning how to code for the next year intern jobs.
 - 💞️ I’m looking to collaborate on doing creative and fun projects to add colors in my portfolio.
 - 📫 How to reach me mars.yang.00@gmail.com
 
